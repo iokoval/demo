@@ -1,0 +1,41 @@
+header {
+    background-color: #263d36;
+    background-image: url("https://static.pexels.com/photos/90807/pexels-photo-90807.jpeg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 1.2;
+    padding: 10vw 2em;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+header h1 {
+    color: white;
+    background: black;
+    padding: 50px 10px;
+}
+
+body {
+    color: #555;
+    font-family: 'Space Mono', monospace;
+    line-height: 1.5em;
+    margin: 0 auto;
+    width: 920px;
+    padding: 30px 20px;
+}
+
+
+h1, h2, strong {
+    color: #333;
+}
+
+a { 
+    color: firebrick
+}
+
+ul {
+    border-left: 1px solid #555;
+    list-style-type: none;
+    margin-left: -20px;
+}
